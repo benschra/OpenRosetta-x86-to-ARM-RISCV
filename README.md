@@ -1,4 +1,4 @@
-# OpenRosetta
+# OpenRosetta-x86-to-ARM-RISCV
 Open Source x86-32 and x86-64 to ARM & RISC-V translator
 
 AMD64 Assembly Architecture:
